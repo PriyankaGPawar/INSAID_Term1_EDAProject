@@ -2,7 +2,7 @@
 Facebook is the most widely used **social media platform** in the world. 
 While the site was originally created to **connect individuals** with similar interests, today, businesses, nonprofit organizations & communities, and public figures all use the site for network connections, **information sharing** and even** marketing** of products & services.
 
-[![facebook & EDA](https://raw.githubusercontent.com/PriyankaGPawar/INSAID_Term1_Project/master/fb_EDA.png "facebook & EDA")](https://raw.githubusercontent.com/PriyankaGPawar/INSAID_Term1_Project/master/fb_EDA.png "facebook & EDA")
+![facebook_eda](https://raw.githubusercontent.com/PriyankaGPawar/INSAID_Term1_Project/master/fb_eda1.jpg "facebook_eda")
 
 ## Problem Statement for EDA
 1. To carry **analysis** of random dataset from Facebook to find patterns about gender-based and age group-wise affiliations towards Facebook as social networking site.
